@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/notify/commit/128bf6230c03d39dbb7f301ff7b20e594e34c3a2",
       "git:hexsha": "128bf6230c03d39dbb7f301ff7b20e594e34c3a2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/samuelcolvin/notify/commit/99a6c19b943989c8b2af98bf30e59156f8391df1",
